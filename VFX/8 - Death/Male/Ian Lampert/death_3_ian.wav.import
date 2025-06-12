@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b3yms8ts87fvl"
+path="res://.godot/imported/death_3_ian.wav-c5084eb62c95baebb7ea8f38b4b9410e.sample"
+
+[deps]
+
+source_file="res://VFX/8 - Death/Male/Ian Lampert/death_3_ian.wav"
+dest_files=["res://.godot/imported/death_3_ian.wav-c5084eb62c95baebb7ea8f38b4b9410e.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

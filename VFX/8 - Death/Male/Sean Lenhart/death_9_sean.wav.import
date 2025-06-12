@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://2ga1vr7mww6j"
+path="res://.godot/imported/death_9_sean.wav-b815c63f3bed618a2f4b0d3e50550e7d.sample"
+
+[deps]
+
+source_file="res://VFX/8 - Death/Male/Sean Lenhart/death_9_sean.wav"
+dest_files=["res://.godot/imported/death_9_sean.wav-b815c63f3bed618a2f4b0d3e50550e7d.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

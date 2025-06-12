@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ckvl3mhlxog1f"
+path="res://.godot/imported/miscellaneous_16_ian.wav-3856b4b419ce881da688d84c24f56c98.sample"
+
+[deps]
+
+source_file="res://VFX/6 - Miscellaneous/Male/Ian Lampert/miscellaneous_16_ian.wav"
+dest_files=["res://.godot/imported/miscellaneous_16_ian.wav-3856b4b419ce881da688d84c24f56c98.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

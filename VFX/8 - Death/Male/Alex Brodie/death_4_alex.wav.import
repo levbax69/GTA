@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cntvpmu3x0hoi"
+path="res://.godot/imported/death_4_alex.wav-31f93aaea8418b9a6e4b9348b60a5e09.sample"
+
+[deps]
+
+source_file="res://VFX/8 - Death/Male/Alex Brodie/death_4_alex.wav"
+dest_files=["res://.godot/imported/death_4_alex.wav-31f93aaea8418b9a6e4b9348b60a5e09.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

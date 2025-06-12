@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://wsrxe7s86m3j"
+path="res://.godot/imported/miscellaneous_16_alex.wav-9c45317e181537d8de99b361eee29c28.sample"
+
+[deps]
+
+source_file="res://VFX/6 - Miscellaneous/Male/Alex Brodie/miscellaneous_16_alex.wav"
+dest_files=["res://.godot/imported/miscellaneous_16_alex.wav-9c45317e181537d8de99b361eee29c28.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

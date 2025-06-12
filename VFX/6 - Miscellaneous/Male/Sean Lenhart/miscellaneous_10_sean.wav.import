@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dyfisieu0nys7"
+path="res://.godot/imported/miscellaneous_10_sean.wav-0ac343ba241e2b73cd15d62320223c6b.sample"
+
+[deps]
+
+source_file="res://VFX/6 - Miscellaneous/Male/Sean Lenhart/miscellaneous_10_sean.wav"
+dest_files=["res://.godot/imported/miscellaneous_10_sean.wav-0ac343ba241e2b73cd15d62320223c6b.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://crw2n1wvuooto"
+path="res://.godot/imported/confirmation_7_sean.wav-1be65aeb7dacc14ed507df41f28a216e.sample"
+
+[deps]
+
+source_file="res://VFX/2 - Confirmation/Male/Sean Lenhart/confirmation_7_sean.wav"
+dest_files=["res://.godot/imported/confirmation_7_sean.wav-1be65aeb7dacc14ed507df41f28a216e.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

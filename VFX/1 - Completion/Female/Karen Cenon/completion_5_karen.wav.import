@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dks6x038jdc1w"
+path="res://.godot/imported/completion_5_karen.wav-2ecd0d177c9164fb31bf53f6fd574a2c.sample"
+
+[deps]
+
+source_file="res://VFX/1 - Completion/Female/Karen Cenon/completion_5_karen.wav"
+dest_files=["res://.godot/imported/completion_5_karen.wav-2ecd0d177c9164fb31bf53f6fd574a2c.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

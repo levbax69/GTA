@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cl28exm4sdcm7"
+path="res://.godot/imported/confirmation_9_alex.wav-27617d4abe667f7bdae84d08cc982964.sample"
+
+[deps]
+
+source_file="res://VFX/2 - Confirmation/Male/Alex Brodie/confirmation_9_alex.wav"
+dest_files=["res://.godot/imported/confirmation_9_alex.wav-27617d4abe667f7bdae84d08cc982964.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

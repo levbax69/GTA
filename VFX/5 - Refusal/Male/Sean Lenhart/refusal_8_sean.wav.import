@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://e6f6r8n84pwp"
+path="res://.godot/imported/refusal_8_sean.wav-76a34ddb521cbef28ed8251d6775f817.sample"
+
+[deps]
+
+source_file="res://VFX/5 - Refusal/Male/Sean Lenhart/refusal_8_sean.wav"
+dest_files=["res://.godot/imported/refusal_8_sean.wav-76a34ddb521cbef28ed8251d6775f817.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

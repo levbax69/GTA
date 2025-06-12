@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bwy1hgbn8hen1"
+path="res://.godot/imported/confirmation_7_karen.wav-150fd50b5d8c07d33ee19f8341c706bd.sample"
+
+[deps]
+
+source_file="res://VFX/2 - Confirmation/Female/Karen Cenon/confirmation_7_karen.wav"
+dest_files=["res://.godot/imported/confirmation_7_karen.wav-150fd50b5d8c07d33ee19f8341c706bd.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

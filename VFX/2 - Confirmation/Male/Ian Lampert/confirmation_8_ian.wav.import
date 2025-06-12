@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dky0gbm8cxyv0"
+path="res://.godot/imported/confirmation_8_ian.wav-c04fac2732f660cb5f018887732e545d.sample"
+
+[deps]
+
+source_file="res://VFX/2 - Confirmation/Male/Ian Lampert/confirmation_8_ian.wav"
+dest_files=["res://.godot/imported/confirmation_8_ian.wav-c04fac2732f660cb5f018887732e545d.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

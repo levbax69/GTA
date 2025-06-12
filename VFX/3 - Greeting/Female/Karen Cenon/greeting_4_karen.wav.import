@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ip0u8y7vviw5"
+path="res://.godot/imported/greeting_4_karen.wav-12a176c79df9aa31e4674bc4aa3a9b52.sample"
+
+[deps]
+
+source_file="res://VFX/3 - Greeting/Female/Karen Cenon/greeting_4_karen.wav"
+dest_files=["res://.godot/imported/greeting_4_karen.wav-12a176c79df9aa31e4674bc4aa3a9b52.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

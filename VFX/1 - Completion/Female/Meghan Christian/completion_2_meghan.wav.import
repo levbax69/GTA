@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cjqgcbg3bk1lu"
+path="res://.godot/imported/completion_2_meghan.wav-362e0b1ca5f6f316d58514121596c9ef.sample"
+
+[deps]
+
+source_file="res://VFX/1 - Completion/Female/Meghan Christian/completion_2_meghan.wav"
+dest_files=["res://.godot/imported/completion_2_meghan.wav-362e0b1ca5f6f316d58514121596c9ef.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

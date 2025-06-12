@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c5h0c0b4g2nrk"
+path="res://.godot/imported/greeting_5_ian.wav-870811ef57fcab9aa7ca529cf1c8e15b.sample"
+
+[deps]
+
+source_file="res://VFX/3 - Greeting/Male/Ian Lampert/greeting_5_ian.wav"
+dest_files=["res://.godot/imported/greeting_5_ian.wav-870811ef57fcab9aa7ca529cf1c8e15b.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

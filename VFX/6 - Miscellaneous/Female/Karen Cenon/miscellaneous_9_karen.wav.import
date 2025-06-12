@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bbwa2x4sdd2r1"
+path="res://.godot/imported/miscellaneous_9_karen.wav-d97e8ec43a3183298fdb211d430c3bce.sample"
+
+[deps]
+
+source_file="res://VFX/6 - Miscellaneous/Female/Karen Cenon/miscellaneous_9_karen.wav"
+dest_files=["res://.godot/imported/miscellaneous_9_karen.wav-d97e8ec43a3183298fdb211d430c3bce.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

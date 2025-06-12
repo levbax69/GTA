@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bvpbdk8f1i7ja"
+path="res://.godot/imported/death_8_meghan.wav-bc3ef5afac6e3c721c99a1fb7b2700ef.sample"
+
+[deps]
+
+source_file="res://VFX/8 - Death/Female/Meghan Christian/death_8_meghan.wav"
+dest_files=["res://.godot/imported/death_8_meghan.wav-bc3ef5afac6e3c721c99a1fb7b2700ef.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

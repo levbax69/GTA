@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ctx3lewwwghqk"
+path="res://.godot/imported/confirmation_9_meghan.wav-bd807e85e933134f1f51ecc4ed69bc98.sample"
+
+[deps]
+
+source_file="res://VFX/2 - Confirmation/Female/Meghan Christian/confirmation_9_meghan.wav"
+dest_files=["res://.godot/imported/confirmation_9_meghan.wav-bd807e85e933134f1f51ecc4ed69bc98.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
