@@ -38,12 +38,16 @@ animations = [{
 "speed": 4.0
 }]
 
-[node name="Node2D" type="Node2D"]
+[node name="Player" type="Node2D"]
 
 [node name="CharacterBody2D" type="CharacterBody2D" parent="."]
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="CharacterBody2D"]
+position = Vector2(109, 112)
 sprite_frames = SubResource("SpriteFrames_kdubu")
 animation = &"new_animation"
 frame = 1
 frame_progress = 0.290127
+
+[node name="Camera2D" type="Camera2D" parent="CharacterBody2D"]
+position = Vector2(109, 112)
