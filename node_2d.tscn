@@ -1,5 +1,6 @@
-[gd_scene load_steps=7 format=3 uid="uid://dfb161vcw5nkx"]
+[gd_scene load_steps=9 format=3 uid="uid://dfb161vcw5nkx"]
 
+[ext_resource type="Script" uid="uid://cbeq3s80hsnxm" path="res://character_body_2d.gd" id="1_0e48y"]
 [ext_resource type="Texture2D" uid="uid://chd0obiefxdub" path="res://Character/New Piskel (1).png" id="1_wtcfe"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_0e48y"]
@@ -38,9 +39,13 @@ animations = [{
 "speed": 4.0
 }]
 
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_epypp"]
+size = Vector2(131, 64)
+
 [node name="Player" type="Node2D"]
 
 [node name="CharacterBody2D" type="CharacterBody2D" parent="."]
+script = ExtResource("1_0e48y")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="CharacterBody2D"]
 position = Vector2(109, 112)
@@ -49,5 +54,6 @@ animation = &"new_animation"
 frame = 1
 frame_progress = 0.290127
 
-[node name="Camera2D" type="Camera2D" parent="CharacterBody2D"]
-position = Vector2(109, 112)
+[node name="CollisionShape2D" type="CollisionShape2D" parent="CharacterBody2D"]
+position = Vector2(77, 48)
+shape = SubResource("RectangleShape2D_epypp")
