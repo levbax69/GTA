@@ -1,4 +1,6 @@
-[gd_scene format=3 uid="uid://csii45crpcf24"]
+[gd_scene load_steps=2 format=3 uid="uid://csii45crpcf24"]
+
+[ext_resource type="Script" uid="uid://dskmgiy6j18c0" path="res://button.gd" id="1_0fbet"]
 
 [node name="Control" type="Control"]
 layout_mode = 3
@@ -20,3 +22,6 @@ offset_right = 725.0
 offset_bottom = 596.0
 pivot_offset = Vector2(5, 5)
 text = "Press 'Enter' to start"
+script = ExtResource("1_0fbet")
+
+[connection signal="pressed" from="Button" to="Button" method="_on_pressed"]
